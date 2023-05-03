@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Alex Cuadra</h1>
 <h3 align="left">About Me:</h3>
 <p>👨‍💻Full Stack developer with 2 years of experience, and graduated as a Systems Engineer.</p>
-<br>
 <p>I have focused on developing modern web applications using cutting-edge technologies. I specialize in Frontend development with React and Next.js, leveraging their potential to create attractive and highly functional user interfaces.</p>
-<br>
 <p>My Full Stack development experience has allowed me to acquire skills in creating scalable applications, implementing technologies such as Node.js and SQL and NoSQL databases. Additionally, I have worked on team collaboration projects, applying agile methodologies and project management tools to ensure timely and quality deliveries.</p>
 
 <h3 align="left">Connect with me:</h3>
